@@ -56,14 +56,14 @@ Upload to GitHub Pages for free hosting.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Anish | Portfolio</title>
+    <title>Dhanvant | Portfolio</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <header>
     <nav>
-        <h2 class="logo">ARUN</h2>
+        <h2 class="logo">Dhanvant</h2>
         <ul>
             <li><a href="#intro">Intro</a></li>
             <li><a href="#about">About Me</a></li>
@@ -79,7 +79,7 @@ Upload to GitHub Pages for free hosting.
     <div class="overlay"></div>
 
     <div class="intro-content left-align">
-        <h1 class="intro-title">Hi, I'm <span class="highlight">Arun</span> </h1>
+        <h1 class="intro-title">Hi, I'm <span class="highlight">Dhanvant</span> </h1>
         <p class="subtitle">AI • Cybersecurity • Robotics • Automation</p>
         <p class="intro-text">
             I build things that <strong>think, automate, and evolve.</strong>
